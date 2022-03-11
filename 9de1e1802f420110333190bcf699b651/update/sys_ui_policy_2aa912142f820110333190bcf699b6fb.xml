@@ -21,7 +21,7 @@
 
 }]]></script_true>
         <set_values/>
-        <short_description>Contact type field read only</short_description>
+        <short_description>Contact type field read onlyy</short_description>
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>Vijay</sys_created_by>
         <sys_created_on>2022-03-01 11:39:23</sys_created_on>
@@ -29,14 +29,18 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2aa912142f820110333190bcf699b6fb</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Contact type field read only</sys_name>
+
+        <sys_name>Contact type field read onlyy</sys_name>
+
         <sys_overrides/>
         <sys_package display_value="WF Incident" source="9de1e1802f420110333190bcf699b651">9de1e1802f420110333190bcf699b651</sys_package>
         <sys_policy/>
         <sys_scope display_value="WF Incident">9de1e1802f420110333190bcf699b651</sys_scope>
         <sys_update_name>sys_ui_policy_2aa912142f820110333190bcf699b6fb</sys_update_name>
-        <sys_updated_by>Ranjani</sys_updated_by>
-        <sys_updated_on>2022-03-10 14:06:08</sys_updated_on>
+
+        <sys_updated_by>Vijay</sys_updated_by>
+        <sys_updated_on>2022-03-10 15:24:51</sys_updated_on>
+
         <table>incident</table>
         <ui_type>0</ui_type>
         <view/>
