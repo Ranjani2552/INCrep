@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[gs.print("hello");]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint/>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>Test UI Page</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>Vijay</sys_created_by>
+        <sys_created_on>2022-03-11 11:27:09</sys_created_on>
+        <sys_id>98e6b5ef2f020110333190bcf699b6b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test UI Page</sys_name>
+        <sys_package display_value="WF Incident" source="9de1e1802f420110333190bcf699b651">9de1e1802f420110333190bcf699b651</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WF Incident">9de1e1802f420110333190bcf699b651</sys_scope>
+        <sys_update_name>sys_ui_page_98e6b5ef2f020110333190bcf699b6b9</sys_update_name>
+        <sys_updated_by>Ranjani</sys_updated_by>
+        <sys_updated_on>2022-03-11 11:36:56</sys_updated_on>
+    </sys_ui_page>
+</record_update>
